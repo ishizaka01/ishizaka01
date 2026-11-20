@@ -1,6 +1,6 @@
 # Henrique Ishizaka
 
-Desenvolvedor JavaScript | Estudante de ADS na UNILAVRAS
+Futuro Desenvolvedor Back-End | JavaScript | Estudante de ADS na UNILAVRAS
 
 Lavras, MG - Brasil
 
@@ -8,7 +8,7 @@ Estou me aperfeiçoando em JavaScript todos os dias e busco meu primeiro estági
 
 ## Foco atual
 - JavaScript (ES6+), com programação assíncrona
-- React, Git e GitHub
+- APIs, back-end, Git e GitHub
 
 ## Já estudei
 HTML, CSS, Python, Java, Node.js, Spring Boot e bancos de dados, em atividades da faculdade.
